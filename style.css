@@ -80,3 +80,45 @@ button {
     margin-top: 2%;
 
 }
+
+.hard-work {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 5%;
+
+}
+
+h1 {
+    font-size: 36px;
+}
+
+.work {
+    margin: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#father {
+    background-color: aqua;
+    border: 5px solid aqua;
+    margin-right: 5%;
+    border-radius: 5%;
+    text-align: justify;
+
+}
+
+#house {
+    background-color: pink;
+    border: 5px solid pink;
+    border-radius: 5%;
+    text-align: justify;
+}
+
+#book {
+    background-color: burlywood;
+    border: 5px solid burlywood;
+    border-radius: 5%;
+    margin-left: 5%;
+    text-align: justify;
+}

@@ -122,3 +122,52 @@ h1 {
     margin-left: 5%;
     text-align: justify;
 }
+
+.flexible-container {
+    display: flex;
+    margin-top: 15%;
+    justify-content: space-between;
+}
+
+.half-width {
+    width: 100%;
+
+}
+
+.half-width img {
+    width: 100%;
+}
+
+button {
+    background-color: brown;
+    color: aliceblue;
+}
+
+.Reach-me {
+    margin-top: 20%;
+}
+
+.email {
+    background-color: rgba(0, 255, 255, 0.212);
+
+}
+
+h3 {
+    padding-right: 18%;
+}
+
+.footer-wrap {
+    width: 100%;
+    text-align: center;
+    color: brown;
+
+}
+
+.down {
+    text-align: center;
+}
+
+.background {
+    background-color: black;
+    color: aliceblue;
+}
